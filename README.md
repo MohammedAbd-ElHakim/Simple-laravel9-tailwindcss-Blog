@@ -71,10 +71,12 @@ php artisan migrate
 ```
 <br>
 4.Serve the application:
+
 ```bash
 php artisan serve
 ```
 ### Usage:
+
 **-Create** new blog posts
 
 **-Edit** existing posts
