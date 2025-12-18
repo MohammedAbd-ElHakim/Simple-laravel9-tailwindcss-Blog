@@ -57,10 +57,13 @@ composer install
 npm install && npm run dev
 ``
 4. Set up environment variables:
+<br>
 1-Copy .env.example to .env
+<br>
 2-Configure your database
+<br>
 3-Run migrations:
-
+<br>
 ``bash
 php artisan migrate
 ``
