@@ -54,6 +54,8 @@ git clone https://github.com/USERNAME/laravel-tailwindcss-Blog.git
 2. Install dependencies:
 ``bash
 composer install
+``
+``bash
 npm install && npm run dev
 ``
 4. Set up environment variables:
