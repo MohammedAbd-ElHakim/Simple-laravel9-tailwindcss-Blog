@@ -34,6 +34,8 @@ A simple and clean Blog application built with **Laravel 9** and **Tailwind CSS 
 - Responsive design using Tailwind CSS
 - Blade templating engine for views
 - Clean and organized code structure
+- Post Factory to auto generate posts
+- post seeder to auto insert post to DB 
 
 ## Tech Stack
 
