@@ -52,12 +52,12 @@ A simple and clean Blog application built with **Laravel 9** and **Tailwind CSS 
 git clone https://github.com/USERNAME/laravel-tailwindcss-Blog.git
 ```
 2. Install dependencies:
-``bash
+```bash
 composer install
-``
-``bash
+```
+```bash
 npm install && npm run dev
-``
+```
 4. Set up environment variables:
 <br>
 1-Copy .env.example to .env
@@ -66,14 +66,14 @@ npm install && npm run dev
 <br>
 3-Run migrations:
 <br>
-``bash
+```bash
 php artisan migrate
-``
+```
 <br>
 4.Serve the application:
-``bash
+```bash
 php artisan serve
-``
+```
 ### Usage:
 **-Create** new blog posts
 
