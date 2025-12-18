@@ -21,7 +21,8 @@
     <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
   </a>
 </p>
-# Laravel TailwindCSS Blog
+
+ # Laravel TailwindCSS Blog
 
 A simple and clean Blog application built with **Laravel 9** and **Tailwind CSS 3**, featuring full CRUD functionality and trash management.
 
