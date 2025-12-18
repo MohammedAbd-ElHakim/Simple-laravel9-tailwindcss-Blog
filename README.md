@@ -65,13 +65,11 @@ npm install && npm run dev
 2-Configure your database
 <br>
 3-Run migrations:
-<br>
 ```bash
 php artisan migrate
 ```
 <br>
 4.Serve the application:
-
 ```bash
 php artisan serve
 ```
