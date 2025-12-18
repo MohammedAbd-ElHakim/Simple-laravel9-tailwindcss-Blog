@@ -47,11 +47,11 @@ A simple and clean Blog application built with **Laravel 9** and **Tailwind CSS 
 ## Installation
 
 1. Clone the repository:
+```markdown
 ```bash
 git clone https://github.com/USERNAME/laravel-tailwindcss-Blog.git
 ```
 2. Install dependencies:
-   
 ``bash
 composer install
 npm install && npm run dev
