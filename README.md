@@ -67,6 +67,7 @@ npm install && npm run dev
 ``bash
 php artisan migrate
 ``
+<br>
 4.Serve the application:
 ``bash
 php artisan serve
