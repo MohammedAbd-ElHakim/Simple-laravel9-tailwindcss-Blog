@@ -19,7 +19,7 @@ class PostFactory extends Factory
         public function definition()
     {
         return [
-            'title'=>$this->faker->sentence(4),
+            'title'=>$this->faker->sentence(3),
             'body'=>$this->faker->paragraph(10),
             'created_at'=>now()->subDays(rand(0,60)),
             'updated_at'=>now(),
